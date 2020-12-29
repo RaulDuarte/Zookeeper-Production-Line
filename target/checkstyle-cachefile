@@ -1,0 +1,4 @@
+#Mon Dec 07 04:33:05 BRT 2020
+module-resource*?\:checkstyle/suppressions.xml=33F792A371B69F9C17002BC1F1D144E6AFC92C6C
+/home/duarte/Desktop/workspace/zookeeper/src/test/java/com/rauldaurte/AppTest.java=1606860133000
+configuration*?=A15F11B613FDC7249A92D25D29BEA774BD7FE799
